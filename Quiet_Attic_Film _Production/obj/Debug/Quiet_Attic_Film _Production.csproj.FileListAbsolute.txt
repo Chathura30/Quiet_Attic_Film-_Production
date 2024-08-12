@@ -1,0 +1,33 @@
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\bin\Debug\Quiet_Attic_Film _Production.exe.config
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\bin\Debug\Quiet_Attic_Film _Production.exe
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\bin\Debug\Quiet_Attic_Film _Production.pdb
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Client.resources
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Form1.resources
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Location.resources
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.MainMenu.resources
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Production.resources
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Properties.Resources.resources
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Property.resources
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Staff.resources
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.exe
+C:\Users\USER\source\repos\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.pdb
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\bin\Debug\Quiet_Attic_Film _Production.exe.config
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\bin\Debug\Quiet_Attic_Film _Production.exe
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\bin\Debug\Quiet_Attic_Film _Production.pdb
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.csproj.AssemblyReference.cache
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Client.resources
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Form1.resources
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Location.resources
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.MainMenu.resources
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Production.resources
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Properties.Resources.resources
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Property.resources
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film__Production.Staff.resources
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.csproj.GenerateResource.cache
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.csproj.CoreCompileInputs.cache
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.exe
+D:\HND[SE]\Sem1\Data base\Data base\Quiet_Attic_Film _Production\Quiet_Attic_Film _Production\obj\Debug\Quiet_Attic_Film _Production.pdb
